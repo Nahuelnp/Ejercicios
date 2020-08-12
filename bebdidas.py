@@ -6,6 +6,7 @@ class almacen:
         self.listaDeProductos = []
     #METODOS DE ALMACEN
     def calcularPreciosBebidas(self):
+        print("aca")
         pass
 
     def calcularPrecioDeUnaMarca(self):
